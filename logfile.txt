@@ -1,0 +1,23 @@
+commit 01caa36be761a6c2b0aeb7d3c9d02a081f20b348
+Author: pdserpico <pdserpico@gmail.com>
+Date:   Sun Nov 29 17:11:11 2020 +0100
+
+    updated gitignore with .png
+
+commit d374956ee4f9d32a52356e58075715140d77321e
+Author: pdserpico <pdserpico@gmail.com>
+Date:   Sun Nov 29 17:08:18 2020 +0100
+
+    added gitignore
+
+commit 8b0ec6c7d355fd048ee7daf995f2e2c70254a143
+Author: pdserpico <pdserpico@gmail.com>
+Date:   Sun Nov 29 11:52:08 2020 +0100
+
+    added two files, updated readme
+
+commit e28bb90686531ff91c5c6c77cbcd14a862b345bd
+Author: pdserpico <pdserpico@gmail.com>
+Date:   Sun Nov 29 11:48:05 2020 +0100
+
+    added readme.txt
